@@ -1,2 +1,4 @@
-# tag_recommendation_iswc2012_data
-Dataset for the " Tag recommendation" paper from ISWC 2012
+
+Datasets for the ISWC 2012 paper:
+
+[Tag Recommendation for Large-Scale Ontology-Based Information Systems](http://iswc2012.semanticweb.org/sites/default/files/76500318.pdf)
